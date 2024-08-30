@@ -9,9 +9,9 @@
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<b align="center" style="font-family: 'Courier New', Courier, monospace; font-size: 28px;">
-    I'm Camila and
-</b>
+<div align="center">
+  <h1>I'm Camila and</h1>
+</div>
 
 <!--🖼️LEARNING-CODE-->
 <p align="center">
