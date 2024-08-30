@@ -56,7 +56,7 @@
 <!--💬🃏FUNFACT  --> 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/camilareimann/camilareimann/61bb7a00da4dcf85b27c2baf7ef8dfafebb297a6/images/marquee2.svg">
+<img src="https://raw.githubusercontent.com/camilareimann/camilareimann/220cbdc1a56cd41ebc472c08172f15067ce4f6e8/images/marquee2.svg">
 
 <h4 align="center" style="font-family: 'Courier New', Courier, monospace; font-size: 20px;"> 
   My coding adventure began with the basics, where I immersed myself in:
