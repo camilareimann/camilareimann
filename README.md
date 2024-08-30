@@ -9,9 +9,9 @@
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h1 align="center" style="font-family: 'Courier New', Courier, monospace; border-bottom: none;">
+<p align="center" style="font-family: 'Courier New', Courier, monospace; font-size: 32px; font-weight: bold;">
     I'm Camila and
-</h1>
+</p>
 
 <!--🖼️LEARNING-CODE-->
 <p align="center">
@@ -58,7 +58,9 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!--💬🃏FUNFACT  --> 
-<h2 align="center" style="font-family: 'Courier New', Courier, monospace;border-bottom: none;"> 🚀 My Coding Journey </h2> 
+<p align="center" style="font-family: 'Courier New', Courier, monospace; font-size: 28px; font-weight: bold;">
+    🚀 My Coding Journey
+</p>
 <h4 align="center" style="font-family: 'Courier New', Courier, monospace; font-size: 20px;"> 
   My coding adventure began with the basics, where I immersed myself in:
 </h4> 
