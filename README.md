@@ -81,6 +81,9 @@
   🔒 **Spring**: Creating powerful and secure web applications in Java.
 </p>
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/camilareimann/camilareimann/61bb7a00da4dcf85b27c2baf7ef8dfafebb297a6/images/marquee2.svg">
+
 <!--📏LINE-->
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
