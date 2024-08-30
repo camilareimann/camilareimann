@@ -9,13 +9,9 @@
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<p align="center" style="font-family: 'Courier New', Courier, monospace; font-size: 32px; font-weight: bold;">
-    I'm Camila and
-</p>
-
 <!--🖼️LEARNING-CODE-->
 <p align="center">
-<img src="https://i.imgur.com/92OLgH3.png" width="100%">
+<img src="https://i.imgur.com/0xXKEtB.png" width="100%">
 
 <!--📏LINE-->
 <p align="center">
@@ -58,9 +54,10 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!--💬🃏FUNFACT  --> 
-<p align="center" style="font-family: 'Courier New', Courier, monospace; font-size: 28px; font-weight: bold;">
-    🚀 My Coding Journey
-</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/camilareimann/camilareimann/61bb7a00da4dcf85b27c2baf7ef8dfafebb297a6/images/marquee2.svg">
+
 <h4 align="center" style="font-family: 'Courier New', Courier, monospace; font-size: 20px;"> 
   My coding adventure began with the basics, where I immersed myself in:
 </h4> 
@@ -82,9 +79,6 @@
   ☕ **Java**: Building robust and versatile backend applications.<br> 
   🔒 **Spring**: Creating powerful and secure web applications in Java.
 </p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/camilareimann/camilareimann/61bb7a00da4dcf85b27c2baf7ef8dfafebb297a6/images/marquee2.svg">
 
 <!--📏LINE-->
 <p align="center">
