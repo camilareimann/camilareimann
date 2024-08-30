@@ -15,7 +15,7 @@
 
 <!--🖼️LEARNING-CODE-->
 <p align="center">
-<img src="https://i.imgur.com/92OLgH3.png" height="120" width="600">
+<img src="https://i.imgur.com/92OLgH3.png" width="100%">
 
 <!--📏LINE-->
 <p align="center">
@@ -101,4 +101,7 @@
 <!--📏LINE-->
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/camilareimann/camilareimann/8ea557349f5be0caea9f8201ffaaf825ff4a4305/images/marquee.svg">
+<p align="center">
+<img src="https://media.tenor.com/ZvYnzl2GrSAAAAAM/tony-tony-chopper-chopper.gif">
