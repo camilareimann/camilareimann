@@ -94,9 +94,6 @@
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=camilareimann&theme=merko&border=599200">
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=camilareimann&theme=merko&layout=compact&border_color=599200&langs_count=6">
-
 <!--📏LINE-->
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
