@@ -103,4 +103,4 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/camilareimann/camilareimann/8ea557349f5be0caea9f8201ffaaf825ff4a4305/images/marquee.svg">
 <p align="center">
-<img src="https://media.tenor.com/ZvYnzl2GrSAAAAAM/tony-tony-chopper-chopper.gif">
+<img src="https://media.tenor.com/ZvYnzl2GrSAAAAAM/tony-tony-chopper-chopper.gif](https://giphy.com/explore/tony-tony-chopper">
